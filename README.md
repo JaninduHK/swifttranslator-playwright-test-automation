@@ -72,7 +72,6 @@ You'll see pass/fail status, screenshots of failures, and execution times.
 
 ## Good to Know
 
-- The translator converts **automatically as you type** — there's no "convert" button
 - Negative tests are *supposed* to fail — they check how the system handles bad input
 - If tests time out, increase the timeout in `playwright.config.js`
 
@@ -83,7 +82,6 @@ You'll see pass/fail status, screenshots of failures, and execution times.
 | Module not found | Run `npm install` |
 | Browser not found | Run `npx playwright install` |
 | Tests timing out | Check your internet or increase timeout |
-| Element not found | Website may have changed — run headed mode to check |
 
 ---
 
