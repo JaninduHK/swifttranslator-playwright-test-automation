@@ -200,8 +200,8 @@ const testCases = [
   },
   {
     id: 'Neg_Fun_0009',
-    input: 'dhesaembar 25 mata aeththe.',
-    expected: 'දෙසැම්බර් 25 මට ඇත්තේ.',
+    input: 'dhesaembar 25 mata thiyenne.',
+    expected: 'දෙසැම්බර් 25 මට තියෙන්නෙ.',
     type: 'negative'
   },
   {
