@@ -190,13 +190,13 @@ const testCases = [
     id: 'Neg_Fun_0007',
     input: 'api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu api passee kathaa karamu.',
     expected: 'අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු අපි පස්සේ කතා කරමු.',
-    type: 'positive'  // Changed: translator correctly handles long repeated text
+    type: 'positive'
   },
   {
     id: 'Neg_Fun_0008',
     input: 'mata Rs. 5343 dhenna.',
     expected: 'මට Rs. 5343 දෙන්න.',
-    type: 'positive'  // Changed: translator correctly handles numbers/currency
+    type: 'positive'  
   },
   {
     id: 'Neg_Fun_0009',
