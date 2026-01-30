@@ -194,8 +194,8 @@ const testCases = [
   },
   {
     id: 'Neg_Fun_0008',
-    input: 'mata Rs. 5343 dhenna.',
-    expected: 'මට Rs. 5343 දෙන්න.',
+    input: 'mata Rs. 8473 dhenna.',
+    expected: 'මට Rs. 8473 දෙන්න.',
     type: 'positive'  
   },
   {
