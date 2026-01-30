@@ -182,8 +182,8 @@ const testCases = [
   },
   {
     id: 'Neg_Fun_0006',
-    input: 'dhitvaa suLi kuNaatuva samaGa aethi vuu gQQvathura saha naayayaeem heethuven maarga sQQvarDhana aDhikaariya sathu maarga kotas 430k vinaashayata pathva aethi athara, ehi samastha dhiga pramaaNaya kiloomiitar 300k pamaNa vana bava pravaahana,mahaamaarga saha naagarika sQQvarDhana amaathYA bimal rathnaayaka saDHahan kaLeeya.',
-    expected: 'දිට්වා සුළි කුණාටුව සමඟ ඇති වූ ගංවතුර සහ නායයෑම් හේතුවෙන් මාර්ග සංවර්ධන අධිකාරිය සතු මාර්ග කෝටස් 430ක් විනාශයට පත්ව ඇති අතර, එහි සමස්ථ දිග ප්‍රමාණය කිලෝමීටර් 300ක් පමණ වන බව ප්‍රවාහන,මහාමාර්ග සහ නාගරික සංවර්ධන අමාත්‍ය බිමල් රත්නායක සඳහන් කළේය.',
+    input: 'vidheeshiiya rataka niShpaadhitha gini aviyak saha jiiva uNda dhekak samaGA athadQQguvata gath saekakaru pebaravaari masa 12 vaenidhaa dhakvaa rakShitha banDhanaagaara gatha kara thibee. ee, ohu adha (30) vaththala maheesthraath nikuth kaLa niyoogayakata anuvaya. ladha thorathurak matha polis nilaDhaarin kaNdaayamak pamuNugama pradheeshayeedhii visheeSha soodhisi meheyumak sidhu kara thibee',
+    expected: 'විදේශීය රටක නිෂ්පාදිත ගිනි අවියක් සහ ජීව උණ්ඩ දෙකක් සමඟ අත්අඩංගුවට ගත් සැකකරු පෙබරවාරි මස 12 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ. ඒ, ඔහු අද (30) වත්තල මහේස්ත්‍රාත් නිකුත් කළ නියෝගයකට අනුවය. ලද තොරතුරක් මත පොලිස් නිලධාරින් කණ්ඩායමක් පමුණුගම ප්‍රදේශයේදී විශේෂ සෝදිසි මෙහෙයුමක් සිදු කර තිබේ',
     type: 'negative'
   },
   {
